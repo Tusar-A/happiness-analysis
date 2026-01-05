@@ -8,22 +8,7 @@ In addition, the SDSN would like to know how different world regions compare wit
 
 You are asked to prepare a short analytical report aimed at international policy advisors and diplomats. The audience is familiar with global development issues but not with advanced statistical methods. Your report should therefore focus on clear interpretation and meaningful patterns rather than technical details. Use visualizations where appropriate to support your interpretations, and explain what the PCA reveals about global happiness in a way that informs policy-oriented discussions about well-being, inequality, and development priorities.
 
-**Important:** Think about how you want to structure the report yourself. Don’t forget to add the author contributions and AI disclaimer. Do **not** include code in the report. All code and data analysis belong in your Jupyter notebook.
-
-   
-0\. **Authors of the report**
-
- 
-
-| Name | Contribution |
-| :---- | :---- |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-
-   
+**Important:** Think about how you want to structure the report yourself. Don’t forget to add the author contributions and AI disclaimer. Do **not** include code in the report. All code and data analysis belong in your Jupyter notebook. 
    
    
    
@@ -139,7 +124,7 @@ Key observations:
 
  
 
-![plot](../Strongest Drivers of Happiness.png)
+![plot]Plots/strongest_driver_of_happiness.png
 
 ### 1.2 GDP Sufficiency vs Non-Economic Factors
 
