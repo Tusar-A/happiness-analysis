@@ -139,7 +139,7 @@ Key observations:
 
  
 
-![plot](plots/Strongest Drivers of Happiness.png)
+![plot](../Strongest Drivers of Happiness.png)
 
 ### 1.2 GDP Sufficiency vs Non-Economic Factors
 
